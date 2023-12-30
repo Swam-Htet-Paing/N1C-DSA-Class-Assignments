@@ -1,1 +1,3 @@
-# N1C-DSA-Class-Assignments
+# Basic Login and Register Logic Program 
+
+The program is in C, and is straightforward.
